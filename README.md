@@ -6,4 +6,3 @@ Tech Stack: HTML, CSS, JS.
 
 ![alt text](https://github.com/josephk96/Chingu-Pre-Work/blob/master/Inittab%20Clone.png)
 
-![Clone Link](https://josephk96.github.io/Chingu-Pre-Work/)
